@@ -1,0 +1,23 @@
+{
+  "name": "wireguard-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmaxwwwell/node-wireguard-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmaxwwwell/node-wireguard-wrapper/issues"
+  },
+  "homepage": "https://github.com/mmmaxwwwell/node-wireguard-wrapper#readme",
+  "devDependencies": {
+    "node-addon-api": "^3.1.0",
+    "node-gyp": "^8.0.0"
+  }
+}
