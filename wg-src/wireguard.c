@@ -1753,3 +1753,4 @@ void wg_generate_preshared_key(wg_key preshared_key)
 	}
 	close(fd);
 }
+z

@@ -1,5 +1,9 @@
 #include <node.h>
 
+extern "C" {
+#include "wireguard.h"
+}
+
 using v8::FunctionCallbackInfo;
 using v8::Isolate;
 using v8::Local;
